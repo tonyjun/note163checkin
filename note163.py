@@ -9,7 +9,7 @@ urllib3.disable_warnings()
 # note.youdao.com 有道云笔记签到
 
 user="tonyjun163@163.com"
-passwd="8479B0F11D7F6EE37AC7EE61C2AB86BF"
+passwd="8479b0f11d7f6ee37ac7ee61c2ab86bf"
 
 if(user=="",passwd==""):
     user = input("账号:")
